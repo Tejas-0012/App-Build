@@ -99114,7 +99114,7 @@ wh(){var s=0,r=A.D(t.al),q,p=2,o=[],n,m,l,k,j,i
 var $async$wh=A.z(function(a,b){if(a===1){o.push(b)
 s=p}while(true)switch(s){case 0:p=4
 s=7
-return A.L(A.qi(A.dX("http://127.0.0.1:5000/restuarant",0,null)),$async$wh)
+return A.L(A.qi(A.dX("https://api-node-0hjb.onrender.com/restuarant",0,null)),$async$wh)
 case 7:n=b
 if(n.b===200){k=n
 m=B.aP.cD(0,A.qh(A.q9(k.e)).cD(0,k.w))
@@ -110374,7 +110374,7 @@ s($,"bd6","aVB",()=>A.N(A.N(A.N(A.iP(),"window"),"navigator"),"geolocation"))
 s($,"bd7","aVC",()=>new A.arK().$0())
 s($,"bc6","aV5",()=>new A.H())
 s($,"bfz","aMv",()=>A.b_9(null,A.ad("yH")))
-s($,"bad","aUh",()=>"http://127.0.0.1:5000")
+s($,"bad","aUh",()=>"https://api-node-0hjb.onrender.com")
 s($,"bae","a4k",()=>"https://api-node-0hjb.onrender.com")
 s($,"baf","aUi",()=>"https://api-node-0hjb.onrender.com")
 s($,"bag","aUj",()=>"https://api-node-0hjb.onrender.com")
